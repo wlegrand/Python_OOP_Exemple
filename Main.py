@@ -16,7 +16,7 @@ for i in range(num_cars):
 
 location = input("Enter the location of the garage: ")
 
-max_cars = int(input("Enter the maximum number of cars the garage can hold: "))
+max_cars = 3
 
 garage = Garage(location, max_cars)
 
