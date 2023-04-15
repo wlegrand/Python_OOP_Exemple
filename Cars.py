@@ -11,7 +11,7 @@ class Cars:
     def get_color(self):
         return self.color
 
-    def get_brend(self):
+    def get_brand(self):
         return self.brand
 
     def get_power(self):
